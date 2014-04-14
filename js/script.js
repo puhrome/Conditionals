@@ -1,7 +1,7 @@
 /**
  *Conditional Logic Concept Created by Phirom Yim on 4/14/14.
  */
-var oldEnough = false;
+var oldEnough = true;
 
 //if the child is old enough, print to the console, you can ride
 
